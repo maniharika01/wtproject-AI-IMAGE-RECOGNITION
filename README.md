@@ -79,10 +79,7 @@ ai-vision-lab/
 
 ## Contributors
 
-- Bindusri
-- Preetisaran
-- V. Venkatesh
-- P. Joy Das
+-    Maniharika Batta
 
 ## License
 
